@@ -12,4 +12,5 @@ NAMES_FILES_GENERATOR.bat
 
 WORD_GENERATOR_WITH_TEXT.bat
 - Makes a word file with a text.
-
+RENAME_FILE.ps1
+- Make change in name files (replace " " to "_")
