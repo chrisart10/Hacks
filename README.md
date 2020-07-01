@@ -5,10 +5,10 @@ DIR_GENERATOR_AND_COPY FILE.bat
 - Makes dir and subdir also copy file inside it.
 
 FILES_ROUTES_GENERATOR.bat
-- Makes a text file with routes of file in same dir.
+- Makes a text file with files routes in same dir.
 
 NAMES_FILES_GENERATOR.bat
-- Makes a text file with names of file in same dir.
+- Makes a text file with files names in same dir.
 
 WORD_GENERATOR_WITH_TEXT.bat
 - Makes a word file with a text.
