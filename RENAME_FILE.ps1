@@ -1,1 +1,1 @@
-dir | Rename-Item -NewName {$_.name -replace " ", "_"}
+dir | Rename-Item -NewName {$_.name -replace "_", "-"}
